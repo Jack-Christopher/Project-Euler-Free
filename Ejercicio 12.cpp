@@ -6,7 +6,6 @@ int fact_prim(int long long numero)
 {
 	int long long n = numero;
 	int k = 2;
-	int k2 = 1;
 	int valor = 1;
 	int long long producto = 1;
 	int temp = 0;
